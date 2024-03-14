@@ -34,4 +34,4 @@ def main():
    plt.grid(True)
    plt.show()
 if __name__ == "__main__":
-   main()
+   main()print("main")
